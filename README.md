@@ -1,5 +1,7 @@
 # BERTrend
 
+<!-- Workflow verification test comment -->
+
 [![rte-france - BERTrend](https://img.shields.io/static/v1?label=rte-france&message=BERTrend&color=blue&logo=github)](https://github.com/rte-france/BERTrend "Go to GitHub repo")
 [![stars - BERTrend](https://img.shields.io/github/stars/rte-france/BERTrend?style=social)](https://github.com/rte-france/BERTrend)
 [![forks - BERTrend](https://img.shields.io/github/forks/rte-france/BERTrend?style=social)](https://github.com/rte-france/BERTrend)
